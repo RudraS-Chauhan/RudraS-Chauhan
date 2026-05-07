@@ -21,12 +21,13 @@
 ### 🚀 Currently Engineering
 * **[Atlas CV](https://atlascv.vercel.app/):** An elite, AI-driven career architecture platform bypassing ATS algorithms with deep-context recruiter psychology. (TypeScript, AI APIs, Vercel).
 * **Project FOREFLEX:** Researching and 3D modeling advanced biomechatronic prosthetics, focusing on high-torque actuators for a functional bionic leg. (SolidWorks, Hardware).
-* **Project AUREL:** Leading a specialized engineering team to develop an Automated Urban Recyclable-Electronic Locator—a smart sorting bin utilizing AI and robotics for localized e-waste management.
-* **GAL-NAV:** Architecting a cross-platform campus micro-navigation application. (Flutter, Dynamic Routing).
+* **Lead Engineer ECHO-GATE Robotics :** Leading the overarching architectural development for a centralized robotics and automated operations core.
+
 
 ### ⚙️ The Tech Arsenal
-* **Languages:** Java, TypeScript, Dart, Python 
+* **Languages:** Java, TypeScript, Dart, Python, Dart(flutter), JavaScript, C++
 * **AI & Hardware:** Machine Learning integration, SolidWorks 3D Modeling, Mechatronics Research
-* **Frameworks:** React/Next.js (Atlas CV), Flutter (GAL-NAV)
+* **Frameworks:** React/Next.js (Atlas CV), Flutter, Tailwind CSS, Git & Github, REST APIs
+* **AI Workflows & Product Engineering:** Prompt Engineering, Google Gemini, Claude AI, SolidWorks
 
 > *"Building systems that solve physical and digital bottlenecks."*
